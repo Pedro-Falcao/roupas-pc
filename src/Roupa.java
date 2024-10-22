@@ -54,7 +54,7 @@ public class Roupa{
         this.material = material;
     }
 
-    public void Vestimenta(){
+    public Roupa() {
 
     }
 
